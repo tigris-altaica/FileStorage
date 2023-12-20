@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">File Storage</string>
+    <!-- Strings related to login -->
+    <string name="prompt_password">Введите пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="invalid_password">Пароль должен содержать больше 5 символов</string>
+    <string name="wrong_password">Неверный пароль</string>
+    <string name="settings_button">Настройки</string>
+    <string name="prompt_old_password">Введите старый пароль</string>
+    <string name="prompt_new_password">Введите новый пароль</string>
+    <string name="wrong_old_password">Неверный старый пароль</string>
+    <string name="missing_new_password">Новый пароль не указан</string>
+    <string name="refresh_files">Обновить</string>
+    <string name="change">Сменить</string>
+    <string name="return_back">Назад</string>
+    <string name="file_name">Имя</string>
+    <string name="decrypt">Расшифровать</string>
+    <string name="change_password">Сменить пароль</string>
+</resources>
